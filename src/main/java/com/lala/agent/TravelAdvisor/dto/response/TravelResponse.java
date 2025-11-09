@@ -9,4 +9,5 @@ public class TravelResponse {
     private int days;
     private String city;
     private List<Itinerary> itinerary;
+    private WeatherInfo weatherInfo;
 }

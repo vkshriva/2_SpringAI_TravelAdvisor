@@ -1,1 +1,1 @@
-Recommend me a travel plan for city:{city} and  number of days: {days}
+Recommend me a travel plan for city:{city} and  number of days: {days} with weather details.
